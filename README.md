@@ -22,7 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 # contactApp
-A users contact web App to add, edit, updated and see history of all edits for a specific record or user.
+A users contact web App to add, edit, delete and see history of all edits for a specific record or user.
 
 # Deployment
 
