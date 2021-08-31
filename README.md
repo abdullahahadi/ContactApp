@@ -31,6 +31,4 @@ A user contacts web App to add, edit, delete contacts and see the history of all
 -  2- locate the contactApp project folder in the xamp/htdocs directory
 -  3- Access the App in the browser URL as http://localhost/contactApp/
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
