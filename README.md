@@ -29,6 +29,9 @@ A user contacts web App to add, edit, delete contacts and see the history of all
 
 -  1- import the contact_db.sql database into Phpmyadmin
 -  2- locate the contactApp project folder in the xamp/htdocs directory
--  3- Access the App in the browser URL as http://localhost/contactApp/
+-  3- Run composer install
+-  4- Create a .env file and copy .env.example to .env
+-  5- Run php artisan config:cache and php artisan cache:clear
+-  3- Access the App in the browser URL as http://localhost/projectFolderName/
 
 
